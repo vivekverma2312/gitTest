@@ -28,7 +28,7 @@
             {
               "boxShadow": "none",
               "widgetName": "Select1",
-              "isFilterable": true,
+              "isFilterable": false,
               "displayName": "Select",
               "iconSVG": "/static/media/icon.bd99caba5853ad71e4b3d8daffacb3a2.svg",
               "labelText": "Label",
@@ -45,6 +45,7 @@
               "defaultOptionValue": "GREEN",
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 0,
               "dynamicBindingPathList": [
                 {
@@ -75,7 +76,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 31,
+              "rightColumn": 26,
               "widgetId": "7y0s8gzm91",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -95,8 +96,8 @@
               "searchTags": [
                 "dropdown"
               ],
-              "topRow": 9,
-              "bottomRow": 13,
+              "topRow": 25,
+              "bottomRow": 29,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "MULTI_SELECT_TREE_WIDGET",
@@ -107,7 +108,7 @@
               ],
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 31,
+              "leftColumn": 28,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -147,7 +148,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 64,
+              "rightColumn": 61,
               "widgetId": "8uhgq1qsyd",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -234,7 +235,7 @@
             {
               "boxShadow": "none",
               "widgetName": "MultiSelect1",
-              "isFilterable": true,
+              "isFilterable": false,
               "displayName": "MultiSelect",
               "iconSVG": "/static/media/icon.a3495809ae48291a64404f3bb04b0e69.svg",
               "labelText": "Label",
@@ -242,8 +243,8 @@
                 "dropdown",
                 "tags"
               ],
-              "topRow": 25,
-              "bottomRow": 29,
+              "topRow": 9,
+              "bottomRow": 13,
               "parentRowSpace": 10,
               "labelWidth": 5,
               "type": "MULTI_SELECT_WIDGET_V2",
@@ -255,6 +256,7 @@
               ],
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
+              "dynamicTriggerPathList": [],
               "leftColumn": 26,
               "dynamicBindingPathList": [
                 {
