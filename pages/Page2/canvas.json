@@ -45,7 +45,7 @@
               "defaultOptionValue": "GREEN",
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 1,
+              "leftColumn": 0,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -75,7 +75,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 21,
+              "rightColumn": 31,
               "widgetId": "7y0s8gzm91",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -107,7 +107,7 @@
               ],
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 23,
+              "leftColumn": 31,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -147,7 +147,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 43,
+              "rightColumn": 64,
               "widgetId": "8uhgq1qsyd",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -218,7 +218,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 21,
+              "rightColumn": 26,
               "widgetId": "a2l5ubjnti",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
@@ -255,7 +255,7 @@
               ],
               "animateLoading": true,
               "parentColumnSpace": 18.0625,
-              "leftColumn": 23,
+              "leftColumn": 26,
               "dynamicBindingPathList": [
                 {
                   "key": "accentColor"
@@ -285,7 +285,7 @@
               "labelTextSize": "0.875rem",
               "isRequired": false,
               "isDeprecated": false,
-              "rightColumn": 43,
+              "rightColumn": 64,
               "widgetId": "l6jq38zw8x",
               "accentColor": "{{appsmith.theme.colors.primaryColor}}",
               "isVisible": true,
